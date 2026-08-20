@@ -1,4 +1,4 @@
-# Apex Portfolio - [Student Name]
+# Apex Portfolio - Jasiahs Herrera
 
 This repository contains my student portfolio for the **Apex [Creative Computing / Cybersecurity] Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
@@ -8,7 +8,7 @@ This repository contains my student portfolio for the **Apex [Creative Computing
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [grad year]. After high school, I plan to [plans]. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2027. After high school, I plan to be in the tech space maybe starting as a jr SOC Analysis . I am interested in cybersecurity for long term plan I am currently working on a couple certs for cybersecurity, IT and data analysis to further my knowledge then go to college for cybersecurity and get my 4 year degree then get a job as a cloud security or cybersecurity engineer. 
 
 ## Portfolio Contents
 
@@ -18,7 +18,7 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 
 ## Featured Skills
 
-- [Skill]
+- CAD 2 years 
 - [Skill]
 - [Skill]
 - [Skill]
@@ -37,6 +37,6 @@ This repository does not include:
 
 ## Contact
 
-- **GitHub:** [@USERNAME](https://github.com/USERNAME)
+- **GitHub:** [@USERNAME](https://github.com/Rose111144)
 - **LinkedIn:** [Optional link]
-- **Email:** [Optional school-approved or professional email]
+- **Email:** jasiahsmh@gmail.com
