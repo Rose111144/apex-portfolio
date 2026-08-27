@@ -4,7 +4,7 @@ This repository contains my student portfolio for the **Apex Cybersecurity Pathw
 
 ## Portfolio
 
-**[Open Portfolio](https://Rose111144.github.io/REPOSITORY-NAME/)**
+**[Open Portfolio](https://Rose111144.github.io/apex-portolio
 
 ## About Me
 
