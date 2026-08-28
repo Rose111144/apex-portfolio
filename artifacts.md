@@ -5,7 +5,7 @@ title: Artifacts
 
 # Portfolio Artifacts
 
-This page contains selected examples of my work from the Apex cybersecuity pathway.
+This page contains selected examples of my work from the Apex cybersecurity pathway.
 
 Each artifact demonstrates technical skills, problem-solving, communication, collaboration, or growth. Click an artifact name to view the full artifact page.
 
@@ -16,7 +16,7 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 <div class="artifact-card" markdown="1">
 
 ### cs lab workstation and rack setup
-<p class="artifact-meta">image| augest 2026</p>
+<p class="artifact-meta">image| august 2026</p>
 
 Me and my team came together to design and assemble our individual workstations, make sure each setup fit our specific needs while still integrating smoothly into the share environment. once those were built, we collaborated to mount and organize a server rack in our shared space.
 
