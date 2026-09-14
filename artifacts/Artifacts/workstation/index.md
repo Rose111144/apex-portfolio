@@ -17,12 +17,9 @@ This artifact documents my work setting up a workstation in our computer science
 
 ## The Artifact
 
-![photo of workstation 13,14](workstation.jpg)
-
-[View the full artifact](workstation.jpg)
+![photo of workstation 13,14](workstation.jpeg)
 
 ## Skills Demonstrated
-
 <span class="skill-tag">Collaboration</span>
 <span class="skill-tag">Responsibly</span>
 <span class="skill-tag">Reliability</span>
@@ -30,7 +27,7 @@ This artifact documents my work setting up a workstation in our computer science
 
 ## What I Learned
 
-I learned how to assemble a server rack.which taught me how to handle enterprise grade hardware.
+I learned how to set up a desktop set up for my cybersecurity workstation. This helped set up individual computers and also learn the basics of computers and hardware.
 
 ---
 
