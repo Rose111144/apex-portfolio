@@ -3,9 +3,9 @@ layout: default
 title:  Three Lens Guide 
 ---
 
-# three lens guide  
+# Three Lens Guide  
 
-<p class="artifact-meta">Image | august 2026</p>
+<p class="artifact-meta">Image | August 2026</p>
 
 ## Summary
 
