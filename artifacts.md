@@ -49,17 +49,17 @@ I learned how to set up a desktop set up for my cybersecurity workstation. This 
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### 3LensGulide
+<p class="artifact-meta">Image | September 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+The 3LensGulide breaks down cybersecurity into three connected areas such as  networking, security, and information assurance. It explains how networking enables communication between devices, security protects systems from threats, and information assurance ensures data is managed and safeguarded responsibly. Together, they form the foundation of cybersecurity, supported by models like the CIA Triad and McCumber Cube that emphasize confidentiality, integrity, and availability.
 
 **Skills demonstrated:**
 
 <span class="skill-tag">[Skill]</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/ARTIFACT/3LensGulide)
 
 </div>
 
