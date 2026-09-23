@@ -17,7 +17,7 @@ I learned how to design and organize a professional network rack the way real cy
 
 ## The Artifact
 
-![photo of Network Rack Layout.png](three_lens.png)
+![photo of Network Rack Layout.png](Network Rack Layout/netrack layout.png)
 
 ## Skills Demonstrated
 <span class="skill-tag">Collaboration</span>
