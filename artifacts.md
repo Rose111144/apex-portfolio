@@ -59,7 +59,7 @@ The 3LensGulide breaks down cybersecurity into three connected areas such as  ne
 <span class="skill-tag">[Skill]</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](artifacts/ARTIFACT/3LensGulide)
+[View Artifact](artifacts/3LensGulide)
 
 </div>
 
