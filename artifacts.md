@@ -31,8 +31,8 @@ Me and my team came together to design and assemble our individual workstations,
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### Network Rack Layout
+<p class="artifact-meta">Image | September 2026</p>
 
 [Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
 
