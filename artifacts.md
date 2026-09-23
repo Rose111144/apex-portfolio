@@ -43,7 +43,7 @@ I learned how to set up a desktop set up for my cybersecurity workstation. This 
 <span class="skill-tag">[Skill]</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Network%20Rack%20Layout)
 
 </div>
 
