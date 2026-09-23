@@ -34,7 +34,9 @@ Me and my team came together to design and assemble our individual workstations,
 ### Network Rack Layout
 <p class="artifact-meta">Image | September 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+I learned how to set up a desktop set up for my cybersecurity workstation. This helped set up individual computers and also learn the basics of computers and hardware.
+
+
 
 **Skills demonstrated:**
 
