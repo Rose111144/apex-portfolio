@@ -56,8 +56,8 @@ The 3LensGulide breaks down cybersecurity into three connected areas such as  ne
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Networking Fundamentals</span>
+<span class="skill-tag">CIA Triad Analysis</span>
 
 [View Artifact](artifacts/3LensGulide)
 
@@ -66,15 +66,14 @@ The 3LensGulide breaks down cybersecurity into three connected areas such as  ne
 ---
 ## All Artifacts
 
-## [Artifact Name]
+## [risk_mitigation_lab]
 <p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
-
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+These three cases show how major companies handle cybersecurity risks differently. Microsoft and Google use proactive strategies by strengthening identity security and hunting for vulnerabilities before attackers strike, while JP Morgan Chase reacted only after a major breach exposed weaknesses in their defenses. Each company’s choices highlight how risk avoidance, acceptance, or transference would have led to worse outcomes, either limiting growth or increasing the chance of repeated attacks.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Threat Detection</span>
+<span class="skill-tag">Risk Management</span>
 
 [View Artifact](artifacts/ARTIFACT-FOLDER/)
 
