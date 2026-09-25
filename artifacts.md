@@ -67,7 +67,7 @@ The 3LensGulide breaks down cybersecurity into three connected areas such as  ne
 ## All Artifacts
 
 ## [risk_mitigation_lab]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+<p class="artifact-meta">Picture | September 2026</p>
 These three cases show how major companies handle cybersecurity risks differently. Microsoft and Google use proactive strategies by strengthening identity security and hunting for vulnerabilities before attackers strike, while JP Morgan Chase reacted only after a major breach exposed weaknesses in their defenses. Each company’s choices highlight how risk avoidance, acceptance, or transference would have led to worse outcomes, either limiting growth or increasing the chance of repeated attacks.
 
 **Skills demonstrated:**
