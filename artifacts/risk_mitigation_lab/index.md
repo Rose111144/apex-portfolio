@@ -17,7 +17,7 @@ This artifact documents my work setting up a workstation in our computer science
 
 ## The Artifact
 
-![photo of three_lens.png](three_lens.png)
+![photo of Risk_Mitigation_Brief.pdf](Risk_Mitigation_Brief.pdf)
 
 ## Skills Demonstrated
 <span class="skill-tag">Collaboration</span>
