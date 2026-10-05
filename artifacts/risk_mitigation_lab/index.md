@@ -17,7 +17,9 @@ This artifact documents my work setting up a workstation in our computer science
 
 ## The Artifact
 
-![photo of Risk_Mitigation_Brief.pdf](Risk_Mitigation_Brief.pdf)
+<object data="./Risk_Mitigation_Brief.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support PDFs. <a href="./Risk_Mitigation_Brief.pdf">Download the PDF instead</a>.</p>
+</object>
 
 ## Skills Demonstrated
 <span class="skill-tag">Collaboration</span>
